@@ -44,10 +44,10 @@
             android:textSize="16sp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.457"
+            app:layout_constraintHorizontal_bias="0.458"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.29"
+            app:layout_constraintVertical_bias="0.142"
             tools:ignore="TextContrastCheck" />
 
         <TextView
@@ -59,10 +59,10 @@
             android:textSize="16sp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.451"
+            app:layout_constraintHorizontal_bias="0.45"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.502"
+            app:layout_constraintVertical_bias="0.327"
             tools:ignore="TextContrastCheck" />
 
         <TextView
@@ -74,10 +74,26 @@
             android:textSize="16sp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.506"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.755"
+            app:layout_constraintVertical_bias="0.497"
             tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/op_4"
+            android:layout_width="206dp"
+            android:layout_height="42dp"
+            android:text="@string/text_op_4"
+            android:textColor="#2F00FF"
+            android:textSize="16sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.736"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.743"
+            tools:ignore="HardcodedText,TextContrastCheck,TextSizeCheck" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 

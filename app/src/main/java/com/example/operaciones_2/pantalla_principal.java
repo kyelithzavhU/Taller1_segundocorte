@@ -37,6 +37,9 @@ public class pantalla_principal extends AppCompatActivity {
         }else if(valoropci == 3) {
             Intent pantmulti = new Intent(this, pantalla_multiplicacion.class);
             startActivity(pantmulti);
+        }else if(valoropci == 4) {
+            Intent pantubi = new Intent(this, Ubicacion_u.class);
+            startActivity(pantubi);
         }else {
             Intent pant = new Intent(this, pantalla_principal.class);
             startActivity(pant);

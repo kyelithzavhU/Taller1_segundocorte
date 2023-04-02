@@ -4,6 +4,7 @@
     <string name="text_op_1">1.Fibonacci</string>
     <string name="text_op_2">2.Potencia</string>
     <string name="text_op_3">3.Multiplicacion</string>
+    <string name="text_op_4">4.Ubicacion Universidad Agustiniana</string>
     <string name="text_boton_op">Ingresar</string>
     <string name="text_titulo_fibo">Fibonacci</string>
     <string name="text_resultado_fibo">Resultado Fibonacci: </string>
